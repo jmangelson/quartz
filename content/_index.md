@@ -1,6 +1,6 @@
 ---
-title: "My Index"
+title: "Joshua Mangelson - Notes"
 ---
 
-[[public/Factor Graph|Factor Graph]]
+![[public/Factor Graph|Factor Graph]]
 
