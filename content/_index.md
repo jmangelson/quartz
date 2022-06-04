@@ -2,5 +2,5 @@
 title: "My Index"
 ---
 
-[[Factor Graphs]]
+[[Factor Graph]]
 
