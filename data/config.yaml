@@ -18,11 +18,11 @@ links:
     link: https://twitter.com/JoshuaMangelson
   - link_name: Bitbucket-FRoStLab
     link: https://bitbucket.org/frostlab/
-  - link_name: FRoStLab
-    link: https://frostlab.byu.edu/
   - link_name: Bitbucket-Personal
     link: https://bitbucket.org/jmangelson/
   - link_name: Github-Personal
     link: https://github.com/jmangelson
+  - link_name: FRoStLab
+    link: https://frostlab.byu.edu/
   - link_name: Email
     link: mailto:mangelson@byu.edu

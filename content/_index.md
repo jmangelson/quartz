@@ -2,6 +2,13 @@
 title: "Joshua Mangelson - Notes Index"
 ---
 
+```html
+<img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
+     width="400" 
+     height="500" />
+```
+
+
 ![|250](https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg)
 
 
