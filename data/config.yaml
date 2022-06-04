@@ -9,17 +9,20 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 description:
   I am a field roboticist and Professor of Electrical and Computer Engineering at Brigham Young University. 
-  Welcome to my personal website, where I plan to post updates on my research and teaching as well as a 
-  collection of useful notes.
+  Welcome to my online note vault, where I plan to post updates on my research and teaching as well as a 
+  collection of hopefully useful notes.
 page_title:
   "Joshua Mangelson - Notes"
 links:
   - link_name: Twitter
     link: https://twitter.com/JoshuaMangelson
-  - link_name: Github
-    link: https://github.com/jmangelson
-  - link_name: Bitbucket
-    link: https://bitbucket.org/jmangelson/
+  - link_name: Bitbucket-FRoStLab
+    link: https://bitbucket.org/frostlab/
   - link_name: FRoStLab
     link: https://frostlab.byu.edu/
+  - link_name: Bitbucket-Personal
+    link: https://bitbucket.org/jmangelson/
+  - link_name: Github-Personal
+    link: https://github.com/jmangelson
   - link_name: Email
+      link: mailto:mangelson@byu.edu
