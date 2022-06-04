@@ -3,13 +3,14 @@ title: "Joshua Mangelson - Notes Index"
 ---
 
 
-<img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
-     width="250" />
+<p><img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
+     width="250" /></p>
 
 Test embedding a video:
 
+<div>
 <iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
-
+</div>
 
 
 ![|250](https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg)
