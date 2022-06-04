@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Joshua Mangelson
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -6,14 +6,15 @@ enableLatex: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  I am a field roboticist and Professor of Electrical and Computer Engineering at Brigham Young University. 
+  Welcome to my personal website, where I plan to post updates on my research and teaching as well as a 
+  collection of useful notes.
 page_title:
-  "🪴 Quartz 3.2"
+  "Joshua Mangelson"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/JoshuaMangelson
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/jmangelson
