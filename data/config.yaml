@@ -6,7 +6,7 @@ enableLatex: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 description:
   I am a field roboticist and Professor of Electrical and Computer Engineering at Brigham Young University. 
   Welcome to my personal website, where I plan to post updates on my research and teaching as well as a 
