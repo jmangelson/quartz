@@ -2,14 +2,18 @@
 title: "Joshua Mangelson - Notes Index"
 ---
 
-{{< rawhtml >}}<p><img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
-     width="250" /></p>{{< /rawhtml >}}
+<rawhtml>
+<p><img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
+     width="250" /></p>
+</rawhtml>
 
 Test embedding a video:
-
+{{<rawhtml>}}
 <div>
 <iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
 </div>
+{{</rawhtml>}}
+
 
 
 ![|250](https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg)
