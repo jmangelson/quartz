@@ -6,6 +6,10 @@ title: "Joshua Mangelson - Notes Index"
 <img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
      width="250" />
 
+Test embedding a video:
+
+<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
+
 
 
 ![|250](https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg)
