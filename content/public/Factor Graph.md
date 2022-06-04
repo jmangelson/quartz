@@ -4,7 +4,7 @@ enableToc: true # do not show a table of contents on this page
 ---
 
 # Definition: Factor Graph
-A *factor graph* is a [[public/Bipartite Graph]] with "factor nodes", "variable nodes", and edges that encodes the factorization of a function.
+A *factor graph* is a [[public/Bipartite Graph|bipartite graph]] with "factor nodes", "variable nodes", and edges that encodes the factorization of a function.
 
 Given the factorization of the function $g(x_1, x_2, \cdots, x_n)$:
 
