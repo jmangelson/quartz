@@ -1,17 +1,24 @@
 ---
 title: "Joshua Mangelson - Notes Index"
 ---
+```
+:+1:
+```
 
-<div class="hiddentext" style="display:none;">{{<rawhtml>}}</div>
+
+
+{{<rawhtml>}}
 <p><img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
      width="250" /></p>
-<div class="hiddentext" style="display:none;">{{</rawhtml>}}</div>
+<p>{{</rawhtml>}}</p>
+
+ 
 
 Test embedding a video:
 
-<div class="hiddentext" style="display:none;">{{<rawhtml>}}</div>
+<p>{{<rawhtml>}}</p>
 <iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
-<div class="hiddentext" style="display:none;">{{</rawhtml>}}</div>
+<p>{{</rawhtml>}}</p>
 
 
 
