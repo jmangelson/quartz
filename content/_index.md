@@ -16,7 +16,7 @@ title: "Joshua Mangelson - Notes Index"
 
 Test embedding a video:
 
-<p>{{<rawhtml>}}</p>
+{{<rawhtml>}}
 <iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
 <p>{{</rawhtml>}}</p>
 
