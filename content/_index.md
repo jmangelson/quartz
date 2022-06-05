@@ -1,28 +1,6 @@
 ---
-title: "Joshua Mangelson - Notes Index"
+title: "Joshua Mangelson - Notes Vault"
 ---
-```
-:+1:
-```
-
-
-
-{{<rawhtml>}}
-<p><img src="https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg" 
-     width="250" /></p>
-<p>{{</rawhtml>}}</p>
-
- 
-
-Test embedding a video:
-
-{{<rawhtml>}}
-<iframe src="https://www.youtube.com/embed/NnTvZWp5Q7o"></iframe>
-<p>{{</rawhtml>}}</p>
-
-
-
-
 
 ![|250](https://jmangelson.github.io/quartz/public/pub_attachments/JMangelsonSmall.jpg)
 
